@@ -8,14 +8,10 @@ Faça o download do projeto, abra em alguma IDE que rode aplicações JAVA, Ecli
 
 ## Screenshots
 
- | Tela 1 |
+ | Tela 1 | Tela 2 |
  | --------|--------|
- |<img src="screenshot/TrabalhoFinalPOO_Tela1.png" width="320">|
- | Tela 2 |
- |<img src="screenshot/TrabalhoFinalPOO_Tela2.png" width="320">|
- | Tela 3 |
- |<img src="screenshot/TrabalhoFinalPOO_Tela3.png" width="320">|
- | Tela 4 |
- |<img src="screenshot/TrabalhoFinalPOO_Tela4.png" width="320">|
+ |<img src="screenshot/TrabalhoFinalPOO_Tela1.png" width="330">|<img src="screenshot/TrabalhoFinalPOO_Tela2.png" width="330">|
+ | Tela 3 | Tela 4 |
+ |<img src="screenshot/TrabalhoFinalPOO_Tela3.png" width="330">|<img src="screenshot/TrabalhoFinalPOO_Tela4.png" width="330">|
  | Tela 5 |
- |<img src="screenshot/TrabalhoFinalPOO_Tela5.png" width="320">|
+ |<img src="screenshot/TrabalhoFinalPOO_Tela5.png" width="330">|
